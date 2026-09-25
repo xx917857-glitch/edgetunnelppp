@@ -1,8 +1,8 @@
-name = "DPDNS"
+name = "dpdns"
 main = "_worker.js"
 compatibility_date = "2025-11-04"
 keep_vars = true
 
-[[kv_namespaces]]
-binding = "kv"
-id = "fd8c35fe92eb4a5fbc9ab2edccc3809e"
+#[[kv_namespaces]]
+#binding = "kv"
+#id = "fd8c35fe92eb4a5fbc9ab2edccc3809e"
